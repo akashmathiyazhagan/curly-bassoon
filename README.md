@@ -33,7 +33,7 @@ This project involves exploratory data analysis (EDA) on a Super Store dataset u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/curly_bassoon.git
+   git clone https://github.com/akashmathiyazhagan/curly_bassoon.git
    ```
 
 2. Open the notebook:
